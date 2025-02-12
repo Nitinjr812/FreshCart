@@ -1,0 +1,18 @@
+.slider-container {
+    margin: 20px;
+}
+
+.category-item {
+    text-align: center;
+}
+
+.category-item img {
+    width: 100px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.category-item p {
+    margin-top: 10px;
+    font-size: 14px;
+}

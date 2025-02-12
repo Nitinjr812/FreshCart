@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background-color: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    
+}
+
+.navbar img {
+    width: 30vw;
+}
+
+.para {
+    color: #0AAD0A;
+    font-weight: 700;
+}
+
+@media (min-width: 490px) {
+    .para {
+        margin-right: 10px;
+        text-align: center;
+    }
+}
